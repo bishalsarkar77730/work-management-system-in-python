@@ -1,1 +1,6 @@
 # work-management-system-in-python
+in this project we able to write on the work sheet without acsesing the sheet 
+with th help of python ...
+this program is devloped in python...
+this programm was made by me 
+02/08/2020
